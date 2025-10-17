@@ -6,21 +6,19 @@
   <title>Página Multimédia</title>
 </head>
 <body>
-  <h1>Página Multimédia</h1>
+  <h1>Página Multimédia de Félix</h1>
 
-  <h2>Imagem</h2>
-  <img src="viagem.jpg" alt="Minha foto" width="300">
-
-  <h2>Áudio</h2>
+  <h2>🎵 Áudio</h2>
   <audio controls>
-    <source src="Felix1.mp4" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/felixmanuelfilipe77/P-gina/main/Felix1.mp4" type="audio/mp4">
     O teu navegador não suporta áudio.
   </audio>
 
-  <h2>Vídeo</h2>
+  <h2>🎥 Vídeo</h2>
   <video width="320" height="240" controls>
-    <source src="felix.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/felixmanuelfilipe77/P-gina/main/felix.mp4" type="video/mp4">
     O teu navegador não suporta vídeo.
   </video>
+
 </body>
 </html>
