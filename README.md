@@ -9,6 +9,6 @@ Felix_Página
 </head>
 <body>
   <h1>Minha Imagem no HTML</h1>
-  <img src="viagem.jpg" alt="Minha foto" width="300">
+  <img src="viagem.jpg" alt="viagem" width="300">
 </body>
 </html>
